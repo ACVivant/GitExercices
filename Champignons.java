@@ -31,7 +31,7 @@ public class Champi {
 	        	System.out.print("Est-ce que votre champignon a des lamelles (true : oui, false : non) ? ");
 	        	saisie3 = clavier.nextBoolean();
 	        }
-	        System.out.print("==> Le champignon auquel vous pensez est ");
+	        System.out.print("Abracadabra!!! Le champignon auquel vous pensez est ");
 	        
 	        if ((saisie1)&&(saisie2)&&(saisie3)) {
 	        	System.out.print("l'amanite tue-mouches");
